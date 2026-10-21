@@ -1,0 +1,29 @@
+# Keil MDK build output
+Objects/
+Listings/
+*.uvguix.*
+*.uvoptx
+*.uvprojx.bak
+*.hex
+*.axf
+*.bin
+*.map
+*.lst
+*.crf
+*.o
+*.d
+*.dep
+*.lnp
+*.sct
+*.iex
+*.htm
+*.bak
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editors
+.vscode/
+.idea/
